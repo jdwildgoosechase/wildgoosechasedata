@@ -1,0 +1,9 @@
+{
+    "path" : "C:/R packages/wildgoosechasedata/data-raw",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
