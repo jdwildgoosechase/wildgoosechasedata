@@ -6,7 +6,7 @@ Author: Jon DeGuisti
 Maintainer: Jon DeGuisti <jon.deguisti@gmail.com>
 Description: Stores data related to wildlife sightings and classifications.To be used to create online dashboard
 Depends:
-    R (>= 3.6)
+    R (>= 3.2)
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
